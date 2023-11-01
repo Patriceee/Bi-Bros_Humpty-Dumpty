@@ -1,9 +1,11 @@
 void setup()
 {
-  // pull request yippee
+  // put your setup code here, to run once:
+test
 }
 
 void loop() 
 {
-  test
+  // put your main code here, to run repeatedly:
+test
 }
