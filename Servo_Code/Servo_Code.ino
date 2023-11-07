@@ -11,7 +11,7 @@ void setup() {
 
 void loop() {
   if (digitalRead(buttonPin) == HIGH) {
-    myservo.write(180);
+    myservo.write(90);
   } else {
     myservo.write(0);
   }
