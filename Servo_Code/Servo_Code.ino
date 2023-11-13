@@ -2,8 +2,11 @@
 
 Servo servo1;
 Servo servo2;
+Servo servo3;
 const int buttonPin1 = 2;
 const int buttonPin2 = 7;
+const int buttonPin2 = 6;
+
 
 
 void setup() {
